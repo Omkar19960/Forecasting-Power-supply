@@ -1,0 +1,8 @@
+{
+  "best_model_name": "XGBoost (Tuned)",
+  "data_min_ts": "2002-04-01T01:00:00",
+  "data_max_ts": "2018-08-03T00:00:00",
+  "n_rows": 143202,
+  "eval_window_start": "2018-07-04T01:00:00",
+  "eval_window_end": "2018-08-03T00:00:00"
+}

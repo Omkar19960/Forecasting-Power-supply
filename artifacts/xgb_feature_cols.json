@@ -1,0 +1,1 @@
+["Hour_Slot", "Weekday_Number", "Date_Number", "Month_Index", "Calendar_Year", "Weekend_Flag", "Is_Holiday", "Load_Lag_1H", "Load_Lag_2H", "Load_Lag_3H", "Load_Lag_24H", "Load_Lag_48H", "Load_Lag_168H", "Rolling_Mean_24H", "Rolling_Mean_7D", "Rolling_Std_24H", "Rolling_Std_7D", "Season_Group_Autumn", "Season_Group_Spring", "Season_Group_Summer", "Season_Group_Winter"]
