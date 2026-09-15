@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # P701 — PJM-West Power Load Forecast Dashboard
 
 A live-feeling Streamlit dashboard built on top of your `P701_Model_Building_5_Model_Comparison_ARIMA_SARIMA_LSTM_XGBoost_RNN.ipynb` notebook.
@@ -134,3 +135,6 @@ only really needs enough history for the filters/charts to be meaningful.
 **Other options**: any host that runs a long-lived Python process works —
 Render, Railway, an EC2/VM with `streamlit run app.py --server.port 80`, or
 Hugging Face Spaces (Streamlit SDK).
+=======
+# Forecasting-Power-supply
+>>>>>>> c4527814ee2011e7bf5c8354a5d61f8bd8f97879
