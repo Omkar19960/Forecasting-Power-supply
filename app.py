@@ -322,7 +322,7 @@ st.write("")
 
 # ------------------------------------------------------------------ TABS
 tab_history, tab_compare, tab_forecast, tab_patterns, tab_data = st.tabs(
-    ["📈 Live History", "🏆 Model Comparison", "🔮 Forecast", "🧭 Load Patterns", "📋 Raw Data"]
+    ["📈 History", "🏆 Model Comparison", "🔮 Forecast", "🧭 Load Patterns", "📋 Raw Data"]
 )
 
 # ---- TAB 1: History
